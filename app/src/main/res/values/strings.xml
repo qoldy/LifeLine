@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">LifeLineFinally</string>
+    <string name="pulse">Пульс</string>
+    <string name="pressure">Давление</string>
+    <string name="temperature">Температура</string>
+    <string name="sleepTime">Время сна</string>
+    <string name="add">Добавить</string>
+    <string name="dataExample">90 Ударов в минуту</string>
+    <string name="timeExample">01.01.2020 18:30</string>
+    <string name="changeNote">Изменить запись за</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="delete">Удалить</string>
+    <string name="filters">Фильтры</string>
+    <string name="report">Отчёт</string>
+    <string name="filtersExample">Сортировка по возрастанию даты\nРезультаты за всё время</string>
+    <string name="filterItemExample">Фильтры для параметра</string>
+    <string name="whichSort">Сортировка по </string>
+    <string name="whichResult">Результаты за </string>
+    <string name="apply">Применить</string>
+    <string-array name="sortTypeArr">
+        <item>возрастанию даты</item>
+        <item>убыванию даты</item>
+    </string-array>
+    <string-array name="resultTypeArr">
+        <item>всё время</item>
+        <item>последний месяц</item>
+        <item>последнюю неделю</item>
+    </string-array>
+    <string name="cabinet">Личный кабинет</string>
+    <string name="surname">Фамилия</string>
+    <string name="surnameExample">Иванов</string>
+    <string name="full_nameExample">Иван Иванович</string>
+    <string name="name">Имя</string>
+    <string name="nameExample">Иван</string>
+    <string name="patronymic">Отчество</string>
+    <string name="patronymicExample">Иванович</string>
+    <string name="birth_date">Дата рождения</string>
+    <string name="birth_dateExample">Дата рождения: 01.01.2000</string>
+    <string name="last_visitExample">Дата последнего посещения ЛПУ:\n01.01.2020</string>
+    <string name="emergency">Вызов\nЭкстренной\nПомощи</string>
+    <string name="editProfile">Редактировать профиль</string>
+    <string name="gender">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="maleExample">Пол: Мужской</string>
+    <string name="femaleExample">Пол: Женский</string>
+    <string name="errorFormFilling">Пожалуйста, заполните все данные</string>
+</resources>

@@ -1,0 +1,81 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MainTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="HeadingTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="AdditionalTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/lightBlue</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TwoDigitsEdit" parent="Widget.AppCompat.EditText">
+        <item name="android:inputType">number</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:hint">99</item>
+        <item name="android:maxLength">2</item>
+        <item name="android:textColorHint">@color/hintColor</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ThreeDigitsEdit" parent="Widget.AppCompat.EditText">
+        <item name="android:inputType">number</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:hint">100</item>
+        <item name="android:maxLength">3</item>
+        <item name="android:textColorHint">@color/hintColor</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="FourDigitsEdit" parent="Widget.AppCompat.EditText">
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:hint">36.6</item>
+        <item name="android:maxLength">4</item>
+        <item name="android:textColorHint">@color/hintColor</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="mainEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:inputType">text</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:textColorHint">@color/hintColor</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:lines">1</item>
+    </style>
+
+    <style name="TextButton" parent="Widget.AppCompat.Button">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:background">@color/backgroundTextButtons</item>
+    </style>
+    <style name="CancelButton" parent="Widget.AppCompat.Button">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:background">@color/cancelColor</item>
+    </style>
+    <style name="DeleteButton" parent="Widget.AppCompat.Button">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:background">@color/deleteColor</item>
+    </style>
+
+</resources>

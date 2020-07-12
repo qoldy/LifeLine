@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="darkBlue">#213658</color>
+    <color name="lightBlue">#405A83</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="backgroundTextButtons">#EBF2F2</color>
+    <color name="listItemColor">#E7E9F8</color>
+    <color name="dividersColor">#9AA7BE</color>
+    <color name="hintColor">#95B0DA</color>
+    <color name="cancelColor">#88B5B5</color>
+    <color name="deleteColor">#BE5458</color>
+    <color name="mainGraphColor">#3762A6</color>
+    <color name="secondGraphColor">#A6373C</color>
+    <color name="normal1GraphColor">#3BCD2D</color>
+    <color name="normal2GraphColor">#95CD2D</color>
+</resources>
